@@ -5,7 +5,7 @@ About me:
 - Finishing third year of BSc Software Engineering at Eduvos Tygervalley Campus.
 - Based in Cape Town, South Africa.
 
-Just finished creating the prototype deliverable for a Mobile Application called 'Fitness Slayers' as per the requirements for our third-year capstone project.
+Just developed a prototype Mobile Application called 'Fitness Slayers' as per the requirements for our third-year capstone project.
 > Tech Stack: Flutter (Dart), Firebase Authentication, Firebase Firestore, Android Studio, Git
 
 Internship involves website feature development, ranging from UI to API and Database backend.
