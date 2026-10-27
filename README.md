@@ -8,7 +8,7 @@ About me:
 Just developed a prototype Mobile Application called 'Fitness Slayers' as per the requirements for our third-year capstone project.
 > Tech Stack: Flutter (Dart), Firebase Authentication, Firebase Firestore, Android Studio, Git
 
-Internship involves website feature development, ranging from UI to API and Database backend.
+Internship involves pair-programming website feature development, ranging from UI to API and Database backend.
 > Tech Stack: C#, Typescript, SQL, Angular, HTML, Git
 
 I am passionate about software development and always open to learning new languages and technologies.
