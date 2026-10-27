@@ -1,9 +1,9 @@
 ## Hello world!
 
 About me:
-Intern Developer at SDP Software Solutions since 1st of October 2026 until 31st of December 2026 (expected)
-Finishing third year of BSc Software Engineering at Eduvos Tygervalley Campus.
-Based in Cape Town, South Africa.
+- Intern Developer at SDP Software Solutions since 1st of October 2026 until 31st of December 2026 (expected)
+- Finishing third year of BSc Software Engineering at Eduvos Tygervalley Campus.
+- Based in Cape Town, South Africa.
 
 Just finished creating the prototype deliverable for a Mobile Application called 'Fitness Slayers' as per the requirements for our third-year capstone project.
 > Tech Stack: Flutter (Dart), Firebase Authentication, Firebase Firestore, Android Studio, Git
